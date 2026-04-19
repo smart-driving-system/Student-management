@@ -1,0 +1,6 @@
+{
+  "name": "Excel Pocket Explorer",
+  "description": "A mobile-first application to upload, view, sort, and filter Excel data with multiple conditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
